@@ -1,2 +1,2 @@
 // Check JS is Connected
-console.log('JS Connected');
+console.log('Clock is Ready');
